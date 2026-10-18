@@ -1,0 +1,44 @@
+services:
+  - type: web
+    name: ai-phishguard
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn app.main:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /api/health
+    envVars:
+      - key: APP_ENV
+        value: production
+      - key: APP_DEBUG
+        value: "false"
+      - key: APP_SECRET_KEY
+        generateValue: true
+      - key: JWT_SECRET_KEY
+        generateValue: true
+      - key: COOKIE_SECURE
+        value: "true"
+      - key: DATABASE_URL
+        value: sqlite:////var/data/veritas.db
+      - key: CORS_ORIGINS
+        value: http://localhost:8000,http://127.0.0.1:8000
+      - key: UPLOAD_DIR
+        value: /var/data/uploads
+      - key: REPORTS_DIR
+        value: /var/data/reports
+      - key: IDENTITY_DIR
+        value: /var/data/identity
+      - key: MODELS_DIR
+        value: /var/data/models
+      - key: EVALUATIONS_DIR
+        value: /var/data/evaluations
+      - key: EVIDENCE_DIR
+        value: /var/data/evidence
+      - key: REDACTED_DIR
+        value: /var/data/redacted
+      - key: DATASETS_DIR
+        value: /var/data/datasets
+      - key: SYNTHETIC_DIR
+        value: /var/data/synthetic_datasets
+    disk:
+      name: ai-phishguard-data
+      mountPath: /var/data
+      sizeGB: 1
