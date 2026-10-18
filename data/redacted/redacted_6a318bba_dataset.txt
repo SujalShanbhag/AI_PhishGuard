@@ -1,0 +1,41 @@
+==========================================================================================
+AI PHISHGUARD — LARGE-SCALE SYNTHETIC KYC & IDENTITY DOSSIER
+Generated: 2026-10-17 15:56:17 UTC | Total Records: 3
+==========================================================================================
+
+RECORD ID:    PHG-REC-000001
+FULL NAME: [NAME_REDACTED: Shreya***]
+PHONE NO:     [PHONE_REDACTED: ***-***-5403] | Alt: [PHONE_REDACTED: ***-***-3695]
+[BLOOD_GROUP_REDACTED] | Gender: [GENDER_REDACTED]
+AADHAAR NO:   [AADHAAR_REDACTED: XXXX-XXXX-1446] (Verhoeff Checksum Validated)
+PAN NUMBER:   [PAN_REDACTED: BDUPP****E] | Passport: M1674203
+INCOME: [INCOME_REDACTED] | Bracket: 30% (High Surcharge)
+EMPLOYER:     Zoho Corporation - Identity & Access Manager
+BANK:         State Bank of India | Acct: [BANK_ACCOUNT_REDACTED: ****2542] | IFSC: [IFSC_REDACTED: SBIN******]
+RESIDENCE:    Flat 917, Tower A, Green Glen Layout, New Delhi, Delhi NCR - 110031
+CYBER RISK:   Score 0.241 | Status: CLEAN | MFA: TRUE
+------------------------------------------------------------------------------------------
+RECORD ID:    PHG-REC-000002
+FULL NAME: [NAME_REDACTED: Rahul***]
+PHONE NO:     [PHONE_REDACTED: ***-***-7407] | Alt: [PHONE_REDACTED: ***-***-7177]
+[BLOOD_GROUP_REDACTED] | Gender: [GENDER_REDACTED]
+AADHAAR NO:   [AADHAAR_REDACTED: XXXX-XXXX-6374] (Verhoeff Checksum Validated)
+PAN NUMBER:   [PAN_REDACTED: QGZDP****R] | Passport: N7952770
+INCOME: [INCOME_REDACTED] | Bracket: 30% Standard
+EMPLOYER:     Cognizant India - Lead ML Research Engineer
+BANK:         Punjab National Bank | Acct: [BANK_ACCOUNT_REDACTED: ****4092] | IFSC: [IFSC_REDACTED: PUNB******]
+RESIDENCE:    Flat 780, Sector 14, Green Glen Layout, New Delhi, Delhi NCR - 110071
+CYBER RISK:   Score 0.243 | Status: CLEAN | MFA: TRUE
+------------------------------------------------------------------------------------------
+RECORD ID:    PHG-REC-000003
+FULL NAME: [NAME_REDACTED: Gayatri***]
+PHONE NO:     [PHONE_REDACTED: ***-***-8576] | Alt: [PHONE_REDACTED: ***-***-2073]
+[BLOOD_GROUP_REDACTED] | Gender: [GENDER_REDACTED]
+AADHAAR NO:   [AADHAAR_REDACTED: XXXX-XXXX-0417] (Verhoeff Checksum Validated)
+PAN NUMBER:   [PAN_REDACTED: KLYCP****Z] | Passport: P5100957
+INCOME: [INCOME_REDACTED] | Bracket: 30% (High Surcharge)
+EMPLOYER:     Larsen & Toubro - Digital Forensics Specialist
+BANK:         State Bank of India | Acct: [BANK_ACCOUNT_REDACTED: ****8316] | IFSC: [IFSC_REDACTED: SBIN******]
+RESIDENCE:    Flat 153, Tower C, Green Glen Layout, Kochi, Kerala - 682062
+CYBER RISK:   Score 0.886 | Status: SUSPICIOUS | MFA: FALSE
+------------------------------------------------------------------------------------------

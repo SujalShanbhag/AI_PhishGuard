@@ -1,0 +1,41 @@
+==========================================================================================
+AI PHISHGUARD — LARGE-SCALE SYNTHETIC KYC & IDENTITY DOSSIER
+Generated: 2026-10-17 16:51:16 UTC | Total Records: 3
+==========================================================================================
+
+RECORD ID:    PHG-REC-000001
+Full Name: [NAME_REDACTED: Divya***]
+Phone No.:    [PHONE_REDACTED: ***-***-7969] | Alt: [PHONE_REDACTED: ***-***-3640]
+[BLOOD_GROUP_REDACTED] | Gender: [GENDER_REDACTED]
+Aadhar No.:   [AADHAAR_REDACTED: XXXX-XXXX-6501] (Verhoeff Checksum Validated)
+PAN NUMBER:   [PAN_REDACTED: XGGMP****U] | Passport: J4384444
+INCOME: [INCOME_REDACTED] | Bracket: 30% (High Surcharge)
+EMPLOYER:     Wipro Limited - Lead ML Research Engineer
+BANK:         State Bank of India | Acct: [BANK_ACCOUNT_REDACTED: ****4395] | IFSC: [IFSC_REDACTED: SBIN******]
+RESIDENCE:    Flat 872, Sector 14, Green Glen Layout, Bengaluru, Karnataka - 560007
+CYBER RISK:   Score 0.437 | Status: CLEAN | MFA: TRUE
+------------------------------------------------------------------------------------------
+RECORD ID:    PHG-REC-000002
+Full Name: [NAME_REDACTED: Divya***]
+Phone No.:    [PHONE_REDACTED: ***-***-4382] | Alt: [PHONE_REDACTED: ***-***-9480]
+[BLOOD_GROUP_REDACTED] | Gender: [GENDER_REDACTED]
+Aadhar No.:   [AADHAAR_REDACTED: XXXX-XXXX-1612] (Verhoeff Checksum Validated)
+PAN NUMBER:   [PAN_REDACTED: CMPQP****B] | Passport: T1690185
+INCOME: [INCOME_REDACTED] | Bracket: 30% (High Surcharge)
+EMPLOYER:     Infosys Technologies - Senior Threat Forensic Analyst
+BANK:         HDFC Bank | Acct: [BANK_ACCOUNT_REDACTED: ****8046] | IFSC: [IFSC_REDACTED: HDFC******]
+RESIDENCE:    Flat 661, Tower C, Green Glen Layout, Jaipur, Rajasthan - 302087
+CYBER RISK:   Score 0.146 | Status: CLEAN | MFA: TRUE
+------------------------------------------------------------------------------------------
+RECORD ID:    PHG-REC-000003
+Full Name: [NAME_REDACTED: Isha***]
+Phone No.:    [PHONE_REDACTED: ***-***-4699] | Alt: [PHONE_REDACTED: ***-***-4868]
+[BLOOD_GROUP_REDACTED] | Gender: [GENDER_REDACTED]
+Aadhar No.:   [AADHAAR_REDACTED: XXXX-XXXX-1115] (Verhoeff Checksum Validated)
+PAN NUMBER:   [PAN_REDACTED: PAXHP****G] | Passport: T9421932
+INCOME: [INCOME_REDACTED] | Bracket: 30% Standard
+EMPLOYER:     Tata Consultancy Services - Principal Cybersecurity Architect
+BANK:         ICICI Bank | Acct: [BANK_ACCOUNT_REDACTED: ****1527] | IFSC: [IFSC_REDACTED: ICIC******]
+RESIDENCE:    Flat 560, Tower C, Green Glen Layout, Chennai, Tamil Nadu - 600026
+CYBER RISK:   Score 0.776 | Status: SUSPICIOUS | MFA: TRUE
+------------------------------------------------------------------------------------------

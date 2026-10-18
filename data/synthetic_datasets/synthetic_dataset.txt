@@ -1,0 +1,605 @@
+==========================================================================================
+AI PHISHGUARD — LARGE-SCALE SYNTHETIC KYC & IDENTITY DOSSIER
+Generated: 2026-10-18 03:26:26 UTC | Total Records: 50
+==========================================================================================
+
+RECORD ID:    PHG-REC-000001
+Full Name:    Sunita Bose
+Phone No.:    +91 67438 29187 | Alt: +91 96682 53378
+Blood Group:  B- | Gender: Non-binary
+Aadhar No.:   3651 8788 2952 (Verhoeff Checksum Validated)
+PAN NUMBER:   ZEPPP5745V | Passport: M6894412
+INCOME:       INR 695,650 per annum | Bracket: 10% Standard
+EMPLOYER:     Wipro Limited - Identity & Access Manager
+BANK:         Punjab National Bank | Acct: 11617758224561 | IFSC: PUNB0007604
+RESIDENCE:    Flat 181, Tower C, Green Glen Layout, Kolkata, West Bengal - 700052
+CYBER RISK:   Score 0.51 | Status: REVIEW_NEEDED | MFA: TRUE
+------------------------------------------------------------------------------------------
+RECORD ID:    PHG-REC-000002
+Full Name:    Vishal Chopra
+Phone No.:    +91 68803 67578 | Alt: +91 97186 94095
+Blood Group:  B+ | Gender: Non-binary
+Aadhar No.:   2858 5753 3815 (Verhoeff Checksum Validated)
+PAN NUMBER:   GCVGP8287X | Passport: S1184302
+INCOME:       INR 1,084,575 per annum | Bracket: 20% Standard
+EMPLOYER:     Larsen & Toubro - SOC Incident Commander
+BANK:         Axis Bank | Acct: 27068492426752 | IFSC: UTIB0004533
+RESIDENCE:    Flat 759, Block 4, Green Glen Layout, Chennai, Tamil Nadu - 600041
+CYBER RISK:   Score 0.489 | Status: REVIEW_NEEDED | MFA: TRUE
+------------------------------------------------------------------------------------------
+RECORD ID:    PHG-REC-000003
+Full Name:    Meera Sen
+Phone No.:    +91 96191 70542 | Alt: +91 82842 53589
+Blood Group:  A+ | Gender: Female
+Aadhar No.:   9234 8168 0743 (Verhoeff Checksum Validated)
+PAN NUMBER:   ZTUAP1176P | Passport: N6268962
+INCOME:       INR 3,340,896 per annum | Bracket: 30% (High Surcharge)
+EMPLOYER:     Wipro Limited - Identity & Access Manager
+BANK:         ICICI Bank | Acct: 26994101888327 | IFSC: ICIC0003345
+RESIDENCE:    Flat 301, Tower D, Green Glen Layout, Jaipur, Rajasthan - 302045
+CYBER RISK:   Score 0.627 | Status: REVIEW_NEEDED | MFA: FALSE
+------------------------------------------------------------------------------------------
+RECORD ID:    PHG-REC-000004
+Full Name:    Priyanka Nair
+Phone No.:    +91 98760 56123 | Alt: +91 72156 58181
+Blood Group:  O- | Gender: Female
+Aadhar No.:   3416 2285 4965 (Verhoeff Checksum Validated)
+PAN NUMBER:   HTJWP4446S | Passport: S3152700
+INCOME:       INR 931,665 per annum | Bracket: 10% Standard
+EMPLOYER:     Zoho Corporation - Cloud Security Lead
+BANK:         Axis Bank | Acct: 75549723262132 | IFSC: UTIB0007424
+RESIDENCE:    Flat 426, Tower B, Green Glen Layout, Bengaluru, Karnataka - 560009
+CYBER RISK:   Score 0.697 | Status: REVIEW_NEEDED | MFA: TRUE
+------------------------------------------------------------------------------------------
+RECORD ID:    PHG-REC-000005
+Full Name:    Archana Agarwal
+Phone No.:    +91 91564 04029 | Alt: +91 77106 01228
+Blood Group:  A+ | Gender: Female
+Aadhar No.:   5779 0501 8264 (Verhoeff Checksum Validated)
+PAN NUMBER:   YGARP8228Z | Passport: M5132851
+INCOME:       INR 4,366,056 per annum | Bracket: 30% (High Surcharge)
+EMPLOYER:     Wipro Limited - Chief Risk Officer
+BANK:         HDFC Bank | Acct: 85929962561811 | IFSC: HDFC0003974
+RESIDENCE:    Flat 621, Tower C, Green Glen Layout, Jaipur, Rajasthan - 302065
+CYBER RISK:   Score 0.369 | Status: CLEAN | MFA: TRUE
+------------------------------------------------------------------------------------------
+RECORD ID:    PHG-REC-000006
+Full Name:    Isha Bhat
+Phone No.:    +91 82701 11852 | Alt: +91 92607 29154
+Blood Group:  AB- | Gender: Non-binary
+Aadhar No.:   4861 8768 2341 (Verhoeff Checksum Validated)
+PAN NUMBER:   MCMZP3371N | Passport: J3280681
+INCOME:       INR 4,268,894 per annum | Bracket: 30% (High Surcharge)
+EMPLOYER:     Reliance Industries - Digital Forensics Specialist
+BANK:         Punjab National Bank | Acct: 30101055026646 | IFSC: PUNB0002933
+RESIDENCE:    Flat 651, Tower C, Green Glen Layout, Kochi, Kerala - 682061
+CYBER RISK:   Score 0.327 | Status: CLEAN | MFA: TRUE
+------------------------------------------------------------------------------------------
+RECORD ID:    PHG-REC-000007
+Full Name:    Sunil Bhat
+Phone No.:    +91 65148 22083 | Alt: +91 68406 36304
+Blood Group:  B- | Gender: Male
+Aadhar No.:   8654 3297 0097 (Verhoeff Checksum Validated)
+PAN NUMBER:   ZSVGP2109X | Passport: P7090844
+INCOME:       INR 4,051,335 per annum | Bracket: 30% (High Surcharge)
+EMPLOYER:     Bharat Electronics Ltd - Digital Forensics Specialist
+BANK:         Punjab National Bank | Acct: 18244165008118 | IFSC: PUNB0005260
+RESIDENCE:    Flat 450, Sector 14, Green Glen Layout, Bengaluru, Karnataka - 560015
+CYBER RISK:   Score 0.674 | Status: REVIEW_NEEDED | MFA: TRUE
+------------------------------------------------------------------------------------------
+RECORD ID:    PHG-REC-000008
+Full Name:    Komal Malhotra
+Phone No.:    +91 92993 99580 | Alt: +91 68160 46103
+Blood Group:  O+ | Gender: Female
+Aadhar No.:   6618 0148 6295 (Verhoeff Checksum Validated)
+PAN NUMBER:   WDLLP4649U | Passport: R6680944
+INCOME:       INR 2,405,525 per annum | Bracket: 30% Standard
+EMPLOYER:     Tata Consultancy Services - Identity & Access Manager
+BANK:         ICICI Bank | Acct: 55780991579875 | IFSC: ICIC0005071
+RESIDENCE:    Flat 917, Block 4, Green Glen Layout, Jaipur, Rajasthan - 302093
+CYBER RISK:   Score 0.626 | Status: REVIEW_NEEDED | MFA: TRUE
+------------------------------------------------------------------------------------------
+RECORD ID:    PHG-REC-000009
+Full Name:    Swati Nambiar
+Phone No.:    +91 95585 01542 | Alt: +91 73589 10254
+Blood Group:  AB+ | Gender: Non-binary
+Aadhar No.:   3935 1956 2621 (Verhoeff Checksum Validated)
+PAN NUMBER:   JTNEP9658G | Passport: J7303450
+INCOME:       INR 827,510 per annum | Bracket: 10% Standard
+EMPLOYER:     State Bank of India - Principal Cybersecurity Architect
+BANK:         State Bank of India | Acct: 10289240344122 | IFSC: SBIN0007632
+RESIDENCE:    Flat 849, Tower A, Green Glen Layout, Hyderabad, Telangana - 500072
+CYBER RISK:   Score 0.759 | Status: SUSPICIOUS | MFA: TRUE
+------------------------------------------------------------------------------------------
+RECORD ID:    PHG-REC-000010
+Full Name:    Sanjay Kulkarni
+Phone No.:    +91 94476 81034 | Alt: +91 85761 86223
+Blood Group:  AB+ | Gender: Male
+Aadhar No.:   5863 0308 1980 (Verhoeff Checksum Validated)
+PAN NUMBER:   MXPUP7142H | Passport: S1425557
+INCOME:       INR 2,850,634 per annum | Bracket: 30% Standard
+EMPLOYER:     HDFC Bank - Data Protection Compliance Officer
+BANK:         Kotak Mahindra Bank | Acct: 53584306115289 | IFSC: KKBK0008411
+RESIDENCE:    Flat 918, Block 4, Green Glen Layout, Pune, Maharashtra - 411038
+CYBER RISK:   Score 0.182 | Status: CLEAN | MFA: TRUE
+------------------------------------------------------------------------------------------
+RECORD ID:    PHG-REC-000011
+Full Name:    Sunita Chopra
+Phone No.:    +91 64173 50840 | Alt: +91 80790 52842
+Blood Group:  A- | Gender: Non-binary
+Aadhar No.:   6972 7542 5020 (Verhoeff Checksum Validated)
+PAN NUMBER:   SSGFP3101G | Passport: J1871116
+INCOME:       INR 2,595,762 per annum | Bracket: 30% Standard
+EMPLOYER:     Wipro Limited - Data Protection Compliance Officer
+BANK:         HDFC Bank | Acct: 37347299906642 | IFSC: HDFC0001239
+RESIDENCE:    Flat 296, Tower A, Green Glen Layout, Chennai, Tamil Nadu - 600091
+CYBER RISK:   Score 0.788 | Status: SUSPICIOUS | MFA: TRUE
+------------------------------------------------------------------------------------------
+RECORD ID:    PHG-REC-000012
+Full Name:    Shreya Pillai
+Phone No.:    +91 77004 60602 | Alt: +91 97029 26734
+Blood Group:  A- | Gender: Female
+Aadhar No.:   3537 6647 0316 (Verhoeff Checksum Validated)
+PAN NUMBER:   HMUHP6339D | Passport: R8209714
+INCOME:       INR 4,791,083 per annum | Bracket: 30% (High Surcharge)
+EMPLOYER:     Reliance Industries - Chief Risk Officer
+BANK:         Axis Bank | Acct: 58105749840099 | IFSC: UTIB0005301
+RESIDENCE:    Flat 634, Tower B, Green Glen Layout, New Delhi, Delhi NCR - 110011
+CYBER RISK:   Score 0.929 | Status: SUSPICIOUS | MFA: TRUE
+------------------------------------------------------------------------------------------
+RECORD ID:    PHG-REC-000013
+Full Name:    Shalini Sen
+Phone No.:    +91 70072 65869 | Alt: +91 72849 89429
+Blood Group:  B- | Gender: Non-binary
+Aadhar No.:   3271 0566 9608 (Verhoeff Checksum Validated)
+PAN NUMBER:   CYDAP9628F | Passport: N9145044
+INCOME:       INR 4,272,198 per annum | Bracket: 30% (High Surcharge)
+EMPLOYER:     Larsen & Toubro - Chief Risk Officer
+BANK:         Axis Bank | Acct: 58785894880713 | IFSC: UTIB0008173
+RESIDENCE:    Flat 326, Sector 14, Green Glen Layout, Pune, Maharashtra - 411061
+CYBER RISK:   Score 0.552 | Status: REVIEW_NEEDED | MFA: TRUE
+------------------------------------------------------------------------------------------
+RECORD ID:    PHG-REC-000014
+Full Name:    Preeti Patel
+Phone No.:    +91 86393 55525 | Alt: +91 77434 83625
+Blood Group:  AB+ | Gender: Female
+Aadhar No.:   2128 9039 2366 (Verhoeff Checksum Validated)
+PAN NUMBER:   RMZVP5723C | Passport: S8577674
+INCOME:       INR 1,312,689 per annum | Bracket: 20% Standard
+EMPLOYER:     Infosys Technologies - Digital Forensics Specialist
+BANK:         Axis Bank | Acct: 72752390358962 | IFSC: UTIB0007872
+RESIDENCE:    Flat 658, Tower A, Green Glen Layout, Bengaluru, Karnataka - 560065
+CYBER RISK:   Score 0.716 | Status: REVIEW_NEEDED | MFA: TRUE
+------------------------------------------------------------------------------------------
+RECORD ID:    PHG-REC-000015
+Full Name:    Ananya Agarwal
+Phone No.:    +91 76527 98788 | Alt: +91 88280 23181
+Blood Group:  A+ | Gender: Non-binary
+Aadhar No.:   4803 4727 5558 (Verhoeff Checksum Validated)
+PAN NUMBER:   YJRWP7838S | Passport: J5519380
+INCOME:       INR 4,672,362 per annum | Bracket: 30% (High Surcharge)
+EMPLOYER:     Wipro Limited - Data Protection Compliance Officer
+BANK:         Punjab National Bank | Acct: 40421509756784 | IFSC: PUNB0002463
+RESIDENCE:    Flat 551, Sector 14, Green Glen Layout, New Delhi, Delhi NCR - 110044
+CYBER RISK:   Score 0.08 | Status: CLEAN | MFA: FALSE
+------------------------------------------------------------------------------------------
+RECORD ID:    PHG-REC-000016
+Full Name:    Shreya Rao
+Phone No.:    +91 64090 30373 | Alt: +91 67985 55664
+Blood Group:  B- | Gender: Female
+Aadhar No.:   5904 1390 2996 (Verhoeff Checksum Validated)
+PAN NUMBER:   NWQFP9267X | Passport: J4729624
+INCOME:       INR 3,328,582 per annum | Bracket: 30% (High Surcharge)
+EMPLOYER:     Cognizant India - Identity & Access Manager
+BANK:         ICICI Bank | Acct: 63091272552273 | IFSC: ICIC0005259
+RESIDENCE:    Flat 521, Block 4, Green Glen Layout, Chennai, Tamil Nadu - 600044
+CYBER RISK:   Score 0.347 | Status: CLEAN | MFA: TRUE
+------------------------------------------------------------------------------------------
+RECORD ID:    PHG-REC-000017
+Full Name:    Naveen Deshmukh
+Phone No.:    +91 65614 16680 | Alt: +91 73632 98446
+Blood Group:  O- | Gender: Male
+Aadhar No.:   2572 2388 9967 (Verhoeff Checksum Validated)
+PAN NUMBER:   GYHFP2860P | Passport: J9819026
+INCOME:       INR 4,046,380 per annum | Bracket: 30% (High Surcharge)
+EMPLOYER:     Cognizant India - Senior Threat Forensic Analyst
+BANK:         HDFC Bank | Acct: 71482696276730 | IFSC: HDFC0009962
+RESIDENCE:    Flat 233, Tower B, Green Glen Layout, New Delhi, Delhi NCR - 110092
+CYBER RISK:   Score 0.772 | Status: SUSPICIOUS | MFA: TRUE
+------------------------------------------------------------------------------------------
+RECORD ID:    PHG-REC-000018
+Full Name:    Aarti Agarwal
+Phone No.:    +91 67318 52274 | Alt: +91 93461 07653
+Blood Group:  A+ | Gender: Female
+Aadhar No.:   5978 2458 9657 (Verhoeff Checksum Validated)
+PAN NUMBER:   KJJPP4463W | Passport: T8199899
+INCOME:       INR 2,253,890 per annum | Bracket: 30% Standard
+EMPLOYER:     Reliance Industries - Digital Forensics Specialist
+BANK:         State Bank of India | Acct: 67659130149264 | IFSC: SBIN0002253
+RESIDENCE:    Flat 940, Tower A, Green Glen Layout, New Delhi, Delhi NCR - 110050
+CYBER RISK:   Score 0.647 | Status: REVIEW_NEEDED | MFA: TRUE
+------------------------------------------------------------------------------------------
+RECORD ID:    PHG-REC-000019
+Full Name:    Komal Reddy
+Phone No.:    +91 97208 15155 | Alt: +91 92094 62265
+Blood Group:  AB+ | Gender: Female
+Aadhar No.:   7001 8345 9187 (Verhoeff Checksum Validated)
+PAN NUMBER:   MXTLP9132P | Passport: J4814352
+INCOME:       INR 4,406,239 per annum | Bracket: 30% (High Surcharge)
+EMPLOYER:     Cognizant India - Lead ML Research Engineer
+BANK:         Axis Bank | Acct: 51333977606523 | IFSC: UTIB0006772
+RESIDENCE:    Flat 390, Tower A, Green Glen Layout, Jaipur, Rajasthan - 302014
+CYBER RISK:   Score 0.068 | Status: CLEAN | MFA: TRUE
+------------------------------------------------------------------------------------------
+RECORD ID:    PHG-REC-000020
+Full Name:    Bhavna Mehta
+Phone No.:    +91 87537 74595 | Alt: +91 60943 72883
+Blood Group:  O+ | Gender: Non-binary
+Aadhar No.:   6153 1080 5833 (Verhoeff Checksum Validated)
+PAN NUMBER:   MHGTP6532K | Passport: T7446796
+INCOME:       INR 3,135,654 per annum | Bracket: 30% (High Surcharge)
+EMPLOYER:     Tata Consultancy Services - Data Protection Compliance Officer
+BANK:         Kotak Mahindra Bank | Acct: 13083318705786 | IFSC: KKBK0001552
+RESIDENCE:    Flat 672, Tower C, Green Glen Layout, Jaipur, Rajasthan - 302068
+CYBER RISK:   Score 0.949 | Status: SUSPICIOUS | MFA: TRUE
+------------------------------------------------------------------------------------------
+RECORD ID:    PHG-REC-000021
+Full Name:    Abhishek Patel
+Phone No.:    +91 71094 56535 | Alt: +91 74918 74851
+Blood Group:  O- | Gender: Male
+Aadhar No.:   2964 4566 1439 (Verhoeff Checksum Validated)
+PAN NUMBER:   BWQPP5927H | Passport: K6334408
+INCOME:       INR 959,945 per annum | Bracket: 10% Standard
+EMPLOYER:     Reliance Industries - Senior Threat Forensic Analyst
+BANK:         Axis Bank | Acct: 14005342788225 | IFSC: UTIB0004579
+RESIDENCE:    Flat 955, Tower B, Green Glen Layout, Kochi, Kerala - 682023
+CYBER RISK:   Score 0.125 | Status: CLEAN | MFA: TRUE
+------------------------------------------------------------------------------------------
+RECORD ID:    PHG-REC-000022
+Full Name:    Preeti Rao
+Phone No.:    +91 60362 42576 | Alt: +91 72480 32640
+Blood Group:  AB+ | Gender: Female
+Aadhar No.:   3887 4498 5632 (Verhoeff Checksum Validated)
+PAN NUMBER:   RPNFP3432L | Passport: R7227698
+INCOME:       INR 4,266,839 per annum | Bracket: 30% (High Surcharge)
+EMPLOYER:     ICICI Bank - Cloud Security Lead
+BANK:         State Bank of India | Acct: 96868812089905 | IFSC: SBIN0001437
+RESIDENCE:    Flat 494, Tower A, Green Glen Layout, Mumbai, Maharashtra - 400093
+CYBER RISK:   Score 0.658 | Status: REVIEW_NEEDED | MFA: FALSE
+------------------------------------------------------------------------------------------
+RECORD ID:    PHG-REC-000023
+Full Name:    Jyoti Bhat
+Phone No.:    +91 88947 60194 | Alt: +91 82215 33951
+Blood Group:  A- | Gender: Female
+Aadhar No.:   4244 9865 6419 (Verhoeff Checksum Validated)
+PAN NUMBER:   CQQHP7066V | Passport: T3090642
+INCOME:       INR 2,385,866 per annum | Bracket: 30% Standard
+EMPLOYER:     Tata Consultancy Services - Data Protection Compliance Officer
+BANK:         Punjab National Bank | Acct: 74842499486753 | IFSC: PUNB0009435
+RESIDENCE:    Flat 639, Tower D, Green Glen Layout, Mumbai, Maharashtra - 400074
+CYBER RISK:   Score 0.364 | Status: CLEAN | MFA: TRUE
+------------------------------------------------------------------------------------------
+RECORD ID:    PHG-REC-000024
+Full Name:    Bhavna Agarwal
+Phone No.:    +91 77315 49807 | Alt: +91 74155 17731
+Blood Group:  A+ | Gender: Female
+Aadhar No.:   5088 8265 3315 (Verhoeff Checksum Validated)
+PAN NUMBER:   VCJRP9905U | Passport: R3016514
+INCOME:       INR 2,461,341 per annum | Bracket: 30% Standard
+EMPLOYER:     Persistent Systems - Senior Threat Forensic Analyst
+BANK:         Punjab National Bank | Acct: 64269392141078 | IFSC: PUNB0008158
+RESIDENCE:    Flat 177, Sector 14, Green Glen Layout, New Delhi, Delhi NCR - 110063
+CYBER RISK:   Score 0.93 | Status: SUSPICIOUS | MFA: TRUE
+------------------------------------------------------------------------------------------
+RECORD ID:    PHG-REC-000025
+Full Name:    Rashmi Agarwal
+Phone No.:    +91 85304 96326 | Alt: +91 64284 75568
+Blood Group:  O+ | Gender: Female
+Aadhar No.:   5366 9742 2740 (Verhoeff Checksum Validated)
+PAN NUMBER:   BHGVP9414M | Passport: J7695419
+INCOME:       INR 731,477 per annum | Bracket: 10% Standard
+EMPLOYER:     Wipro Limited - Identity & Access Manager
+BANK:         ICICI Bank | Acct: 88243216659713 | IFSC: ICIC0005651
+RESIDENCE:    Flat 606, Tower C, Green Glen Layout, New Delhi, Delhi NCR - 110089
+CYBER RISK:   Score 0.199 | Status: CLEAN | MFA: TRUE
+------------------------------------------------------------------------------------------
+RECORD ID:    PHG-REC-000026
+Full Name:    Meera Pillai
+Phone No.:    +91 96250 48133 | Alt: +91 87007 80440
+Blood Group:  O+ | Gender: Non-binary
+Aadhar No.:   4559 3182 5511 (Verhoeff Checksum Validated)
+PAN NUMBER:   NHGVP3256T | Passport: N4770139
+INCOME:       INR 4,507,190 per annum | Bracket: 30% (High Surcharge)
+EMPLOYER:     Reliance Industries - SOC Incident Commander
+BANK:         HDFC Bank | Acct: 46716109472582 | IFSC: HDFC0001729
+RESIDENCE:    Flat 205, Block 4, Green Glen Layout, Chennai, Tamil Nadu - 600095
+CYBER RISK:   Score 0.946 | Status: SUSPICIOUS | MFA: TRUE
+------------------------------------------------------------------------------------------
+RECORD ID:    PHG-REC-000027
+Full Name:    Meera Agarwal
+Phone No.:    +91 77124 95020 | Alt: +91 97459 95584
+Blood Group:  B- | Gender: Non-binary
+Aadhar No.:   7281 5882 7050 (Verhoeff Checksum Validated)
+PAN NUMBER:   CMJLP3382C | Passport: S6450560
+INCOME:       INR 517,083 per annum | Bracket: 5% Basic
+EMPLOYER:     Persistent Systems - Lead ML Research Engineer
+BANK:         ICICI Bank | Acct: 59791621888678 | IFSC: ICIC0001854
+RESIDENCE:    Flat 127, Block 4, Green Glen Layout, Kochi, Kerala - 682086
+CYBER RISK:   Score 0.931 | Status: SUSPICIOUS | MFA: TRUE
+------------------------------------------------------------------------------------------
+RECORD ID:    PHG-REC-000028
+Full Name:    Divya Chopra
+Phone No.:    +91 62864 16653 | Alt: +91 83771 18258
+Blood Group:  A- | Gender: Female
+Aadhar No.:   3062 4051 3296 (Verhoeff Checksum Validated)
+PAN NUMBER:   FWJWP8263J | Passport: P1624949
+INCOME:       INR 1,993,679 per annum | Bracket: 30% Standard
+EMPLOYER:     Larsen & Toubro - Lead ML Research Engineer
+BANK:         Kotak Mahindra Bank | Acct: 79596046075509 | IFSC: KKBK0008293
+RESIDENCE:    Flat 799, Tower B, Green Glen Layout, Kochi, Kerala - 682038
+CYBER RISK:   Score 0.355 | Status: CLEAN | MFA: TRUE
+------------------------------------------------------------------------------------------
+RECORD ID:    PHG-REC-000029
+Full Name:    Rashmi Sharma
+Phone No.:    +91 65439 15965 | Alt: +91 86721 98989
+Blood Group:  AB+ | Gender: Female
+Aadhar No.:   6819 9057 7006 (Verhoeff Checksum Validated)
+PAN NUMBER:   MDWBP9430N | Passport: K9054451
+INCOME:       INR 890,011 per annum | Bracket: 10% Standard
+EMPLOYER:     Cognizant India - Lead ML Research Engineer
+BANK:         Kotak Mahindra Bank | Acct: 61457353378354 | IFSC: KKBK0005796
+RESIDENCE:    Flat 712, Tower B, Green Glen Layout, Hyderabad, Telangana - 500049
+CYBER RISK:   Score 0.238 | Status: CLEAN | MFA: FALSE
+------------------------------------------------------------------------------------------
+RECORD ID:    PHG-REC-000030
+Full Name:    Hemant Mehta
+Phone No.:    +91 91163 98126 | Alt: +91 94094 74498
+Blood Group:  A+ | Gender: Non-binary
+Aadhar No.:   2840 6794 8927 (Verhoeff Checksum Validated)
+PAN NUMBER:   UXGUP2777Q | Passport: R4409947
+INCOME:       INR 4,478,897 per annum | Bracket: 30% (High Surcharge)
+EMPLOYER:     Bharat Electronics Ltd - Digital Forensics Specialist
+BANK:         ICICI Bank | Acct: 83880335676458 | IFSC: ICIC0008988
+RESIDENCE:    Flat 725, Sector 14, Green Glen Layout, Bengaluru, Karnataka - 560051
+CYBER RISK:   Score 0.755 | Status: SUSPICIOUS | MFA: TRUE
+------------------------------------------------------------------------------------------
+RECORD ID:    PHG-REC-000031
+Full Name:    Ashwin Kulkarni
+Phone No.:    +91 62428 13072 | Alt: +91 88733 18138
+Blood Group:  B+ | Gender: Male
+Aadhar No.:   9260 2469 7041 (Verhoeff Checksum Validated)
+PAN NUMBER:   QGSTP5102E | Passport: R4580168
+INCOME:       INR 4,757,428 per annum | Bracket: 30% (High Surcharge)
+EMPLOYER:     Cognizant India - Identity & Access Manager
+BANK:         HDFC Bank | Acct: 39291793952110 | IFSC: HDFC0002322
+RESIDENCE:    Flat 467, Block 4, Green Glen Layout, Jaipur, Rajasthan - 302036
+CYBER RISK:   Score 0.528 | Status: REVIEW_NEEDED | MFA: TRUE
+------------------------------------------------------------------------------------------
+RECORD ID:    PHG-REC-000032
+Full Name:    Harish Sen
+Phone No.:    +91 99657 10964 | Alt: +91 71349 52728
+Blood Group:  AB- | Gender: Male
+Aadhar No.:   3733 3489 0214 (Verhoeff Checksum Validated)
+PAN NUMBER:   VDXAP3669R | Passport: N5421374
+INCOME:       INR 4,308,592 per annum | Bracket: 30% (High Surcharge)
+EMPLOYER:     Bharat Electronics Ltd - Identity & Access Manager
+BANK:         HDFC Bank | Acct: 70920473762591 | IFSC: HDFC0007423
+RESIDENCE:    Flat 170, Tower D, Green Glen Layout, Mumbai, Maharashtra - 400050
+CYBER RISK:   Score 0.219 | Status: CLEAN | MFA: TRUE
+------------------------------------------------------------------------------------------
+RECORD ID:    PHG-REC-000033
+Full Name:    Gayatri Joshi
+Phone No.:    +91 91984 47482 | Alt: +91 76983 57482
+Blood Group:  O+ | Gender: Female
+Aadhar No.:   9097 8108 2423 (Verhoeff Checksum Validated)
+PAN NUMBER:   SMWEP7272B | Passport: T3917870
+INCOME:       INR 700,186 per annum | Bracket: 10% Standard
+EMPLOYER:     Tata Consultancy Services - Cloud Security Lead
+BANK:         HDFC Bank | Acct: 80859784484376 | IFSC: HDFC0001983
+RESIDENCE:    Flat 136, Tower A, Green Glen Layout, Pune, Maharashtra - 411027
+CYBER RISK:   Score 0.941 | Status: SUSPICIOUS | MFA: TRUE
+------------------------------------------------------------------------------------------
+RECORD ID:    PHG-REC-000034
+Full Name:    Sunil Saxena
+Phone No.:    +91 66125 95958 | Alt: +91 64591 88213
+Blood Group:  B- | Gender: Non-binary
+Aadhar No.:   8609 4401 2021 (Verhoeff Checksum Validated)
+PAN NUMBER:   ERVJP5512T | Passport: T8328040
+INCOME:       INR 544,170 per annum | Bracket: 5% Basic
+EMPLOYER:     Wipro Limited - Senior Threat Forensic Analyst
+BANK:         ICICI Bank | Acct: 38466122970233 | IFSC: ICIC0005387
+RESIDENCE:    Flat 206, Block 4, Green Glen Layout, Kolkata, West Bengal - 700077
+CYBER RISK:   Score 0.751 | Status: SUSPICIOUS | MFA: FALSE
+------------------------------------------------------------------------------------------
+RECORD ID:    PHG-REC-000035
+Full Name:    Gaurav Malhotra
+Phone No.:    +91 96506 86501 | Alt: +91 93324 33354
+Blood Group:  B- | Gender: Male
+Aadhar No.:   7647 8702 9288 (Verhoeff Checksum Validated)
+PAN NUMBER:   DWBDP4192W | Passport: R6601110
+INCOME:       INR 1,804,568 per annum | Bracket: 30% Standard
+EMPLOYER:     Larsen & Toubro - Senior Threat Forensic Analyst
+BANK:         Kotak Mahindra Bank | Acct: 53324880998710 | IFSC: KKBK0008232
+RESIDENCE:    Flat 657, Sector 14, Green Glen Layout, Kolkata, West Bengal - 700087
+CYBER RISK:   Score 0.912 | Status: SUSPICIOUS | MFA: TRUE
+------------------------------------------------------------------------------------------
+RECORD ID:    PHG-REC-000036
+Full Name:    Aditya Joshi
+Phone No.:    +91 64443 25956 | Alt: +91 75094 64075
+Blood Group:  O- | Gender: Non-binary
+Aadhar No.:   9325 2558 0955 (Verhoeff Checksum Validated)
+PAN NUMBER:   HRLMP2356Y | Passport: R4149725
+INCOME:       INR 3,375,244 per annum | Bracket: 30% (High Surcharge)
+EMPLOYER:     Bharat Electronics Ltd - Digital Forensics Specialist
+BANK:         HDFC Bank | Acct: 72622837092057 | IFSC: HDFC0004061
+RESIDENCE:    Flat 652, Tower B, Green Glen Layout, Bengaluru, Karnataka - 560022
+CYBER RISK:   Score 0.651 | Status: REVIEW_NEEDED | MFA: TRUE
+------------------------------------------------------------------------------------------
+RECORD ID:    PHG-REC-000037
+Full Name:    Alok Hegde
+Phone No.:    +91 81214 03297 | Alt: +91 79377 64490
+Blood Group:  B+ | Gender: Non-binary
+Aadhar No.:   8090 1227 2303 (Verhoeff Checksum Validated)
+PAN NUMBER:   GCCFP5257V | Passport: T2587673
+INCOME:       INR 1,285,425 per annum | Bracket: 20% Standard
+EMPLOYER:     Wipro Limited - Data Protection Compliance Officer
+BANK:         Kotak Mahindra Bank | Acct: 60016453007629 | IFSC: KKBK0009591
+RESIDENCE:    Flat 570, Sector 14, Green Glen Layout, Pune, Maharashtra - 411055
+CYBER RISK:   Score 0.768 | Status: SUSPICIOUS | MFA: TRUE
+------------------------------------------------------------------------------------------
+RECORD ID:    PHG-REC-000038
+Full Name:    Preeti Sundaram
+Phone No.:    +91 89780 65702 | Alt: +91 79042 27477
+Blood Group:  B+ | Gender: Non-binary
+Aadhar No.:   5251 7551 5390 (Verhoeff Checksum Validated)
+PAN NUMBER:   PEZJP2443B | Passport: K7963017
+INCOME:       INR 4,471,639 per annum | Bracket: 30% (High Surcharge)
+EMPLOYER:     Infosys Technologies - Data Protection Compliance Officer
+BANK:         Kotak Mahindra Bank | Acct: 67208615134387 | IFSC: KKBK0001856
+RESIDENCE:    Flat 361, Tower D, Green Glen Layout, New Delhi, Delhi NCR - 110058
+CYBER RISK:   Score 0.782 | Status: SUSPICIOUS | MFA: FALSE
+------------------------------------------------------------------------------------------
+RECORD ID:    PHG-REC-000039
+Full Name:    Deepika Pillai
+Phone No.:    +91 91592 89900 | Alt: +91 82641 17501
+Blood Group:  AB+ | Gender: Female
+Aadhar No.:   5466 1158 5322 (Verhoeff Checksum Validated)
+PAN NUMBER:   GZCGP9057S | Passport: P7549680
+INCOME:       INR 2,609,272 per annum | Bracket: 30% Standard
+EMPLOYER:     State Bank of India - Chief Risk Officer
+BANK:         HDFC Bank | Acct: 69053935087340 | IFSC: HDFC0004846
+RESIDENCE:    Flat 377, Sector 14, Green Glen Layout, Jaipur, Rajasthan - 302073
+CYBER RISK:   Score 0.366 | Status: CLEAN | MFA: FALSE
+------------------------------------------------------------------------------------------
+RECORD ID:    PHG-REC-000040
+Full Name:    Karan Joshi
+Phone No.:    +91 71925 69055 | Alt: +91 72407 12909
+Blood Group:  O+ | Gender: Non-binary
+Aadhar No.:   9059 2453 7384 (Verhoeff Checksum Validated)
+PAN NUMBER:   QDGBP4561L | Passport: J5151350
+INCOME:       INR 1,227,735 per annum | Bracket: 20% Standard
+EMPLOYER:     Infosys Technologies - Principal Cybersecurity Architect
+BANK:         HDFC Bank | Acct: 34164450457968 | IFSC: HDFC0006333
+RESIDENCE:    Flat 628, Tower D, Green Glen Layout, Mumbai, Maharashtra - 400047
+CYBER RISK:   Score 0.088 | Status: CLEAN | MFA: TRUE
+------------------------------------------------------------------------------------------
+RECORD ID:    PHG-REC-000041
+Full Name:    Jyoti Malhotra
+Phone No.:    +91 61808 53676 | Alt: +91 65349 41341
+Blood Group:  AB- | Gender: Non-binary
+Aadhar No.:   8931 8016 9434 (Verhoeff Checksum Validated)
+PAN NUMBER:   LSXYP4674B | Passport: R8061179
+INCOME:       INR 2,012,537 per annum | Bracket: 30% Standard
+EMPLOYER:     Reliance Industries - Principal Cybersecurity Architect
+BANK:         Punjab National Bank | Acct: 75228613261892 | IFSC: PUNB0007378
+RESIDENCE:    Flat 674, Tower B, Green Glen Layout, Kolkata, West Bengal - 700066
+CYBER RISK:   Score 0.055 | Status: CLEAN | MFA: TRUE
+------------------------------------------------------------------------------------------
+RECORD ID:    PHG-REC-000042
+Full Name:    Shalini Pandey
+Phone No.:    +91 89217 14100 | Alt: +91 67041 44843
+Blood Group:  B- | Gender: Female
+Aadhar No.:   9392 9319 1895 (Verhoeff Checksum Validated)
+PAN NUMBER:   CBRRP7599B | Passport: J5329655
+INCOME:       INR 3,455,076 per annum | Bracket: 30% (High Surcharge)
+EMPLOYER:     Infosys Technologies - Cloud Security Lead
+BANK:         Punjab National Bank | Acct: 17044210655192 | IFSC: PUNB0001961
+RESIDENCE:    Flat 335, Tower A, Green Glen Layout, Ahmedabad, Gujarat - 380089
+CYBER RISK:   Score 0.775 | Status: SUSPICIOUS | MFA: FALSE
+------------------------------------------------------------------------------------------
+RECORD ID:    PHG-REC-000043
+Full Name:    Rohan Rao
+Phone No.:    +91 70086 87631 | Alt: +91 61410 34976
+Blood Group:  AB+ | Gender: Male
+Aadhar No.:   9220 3215 8743 (Verhoeff Checksum Validated)
+PAN NUMBER:   ZVPCP8817K | Passport: J7331984
+INCOME:       INR 4,221,116 per annum | Bracket: 30% (High Surcharge)
+EMPLOYER:     Zoho Corporation - Principal Cybersecurity Architect
+BANK:         HDFC Bank | Acct: 30641637155361 | IFSC: HDFC0003785
+RESIDENCE:    Flat 484, Sector 14, Green Glen Layout, Kochi, Kerala - 682066
+CYBER RISK:   Score 0.191 | Status: CLEAN | MFA: TRUE
+------------------------------------------------------------------------------------------
+RECORD ID:    PHG-REC-000044
+Full Name:    Priyanka Rao
+Phone No.:    +91 65073 93373 | Alt: +91 88533 88879
+Blood Group:  B- | Gender: Female
+Aadhar No.:   5789 9483 8859 (Verhoeff Checksum Validated)
+PAN NUMBER:   QPAEP4282P | Passport: S5517308
+INCOME:       INR 4,293,957 per annum | Bracket: 30% (High Surcharge)
+EMPLOYER:     State Bank of India - Digital Forensics Specialist
+BANK:         ICICI Bank | Acct: 41957776335815 | IFSC: ICIC0007375
+RESIDENCE:    Flat 872, Tower D, Green Glen Layout, Kochi, Kerala - 682088
+CYBER RISK:   Score 0.702 | Status: REVIEW_NEEDED | MFA: FALSE
+------------------------------------------------------------------------------------------
+RECORD ID:    PHG-REC-000045
+Full Name:    Sachin Nambiar
+Phone No.:    +91 72930 95739 | Alt: +91 71602 19338
+Blood Group:  B+ | Gender: Non-binary
+Aadhar No.:   5766 9459 5240 (Verhoeff Checksum Validated)
+PAN NUMBER:   QCZSP7595H | Passport: S4703880
+INCOME:       INR 4,424,433 per annum | Bracket: 30% (High Surcharge)
+EMPLOYER:     Tata Consultancy Services - Cloud Security Lead
+BANK:         Kotak Mahindra Bank | Acct: 62592697572460 | IFSC: KKBK0002699
+RESIDENCE:    Flat 329, Tower C, Green Glen Layout, Hyderabad, Telangana - 500031
+CYBER RISK:   Score 0.387 | Status: CLEAN | MFA: TRUE
+------------------------------------------------------------------------------------------
+RECORD ID:    PHG-REC-000046
+Full Name:    Pooja Pandey
+Phone No.:    +91 77724 94091 | Alt: +91 60222 39500
+Blood Group:  A+ | Gender: Female
+Aadhar No.:   6189 5456 9754 (Verhoeff Checksum Validated)
+PAN NUMBER:   BNDWP6189D | Passport: T4863344
+INCOME:       INR 1,027,075 per annum | Bracket: 20% Standard
+EMPLOYER:     Wipro Limited - SOC Incident Commander
+BANK:         State Bank of India | Acct: 18501161368042 | IFSC: SBIN0009171
+RESIDENCE:    Flat 185, Tower B, Green Glen Layout, Hyderabad, Telangana - 500044
+CYBER RISK:   Score 0.833 | Status: SUSPICIOUS | MFA: TRUE
+------------------------------------------------------------------------------------------
+RECORD ID:    PHG-REC-000047
+Full Name:    Isha Nair
+Phone No.:    +91 94683 57990 | Alt: +91 85810 11227
+Blood Group:  A+ | Gender: Non-binary
+Aadhar No.:   4112 7709 4421 (Verhoeff Checksum Validated)
+PAN NUMBER:   BBZCP9705W | Passport: P2801362
+INCOME:       INR 4,298,187 per annum | Bracket: 30% (High Surcharge)
+EMPLOYER:     Reliance Industries - Identity & Access Manager
+BANK:         HDFC Bank | Acct: 91647921134611 | IFSC: HDFC0002971
+RESIDENCE:    Flat 264, Sector 14, Green Glen Layout, Jaipur, Rajasthan - 302097
+CYBER RISK:   Score 0.774 | Status: SUSPICIOUS | MFA: TRUE
+------------------------------------------------------------------------------------------
+RECORD ID:    PHG-REC-000048
+Full Name:    Rohan Bhattacharya
+Phone No.:    +91 88859 01890 | Alt: +91 81474 18531
+Blood Group:  O+ | Gender: Male
+Aadhar No.:   2108 3395 6027 (Verhoeff Checksum Validated)
+PAN NUMBER:   AXFQP3681T | Passport: M7405650
+INCOME:       INR 4,124,577 per annum | Bracket: 30% (High Surcharge)
+EMPLOYER:     Cognizant India - Lead ML Research Engineer
+BANK:         State Bank of India | Acct: 10463848588985 | IFSC: SBIN0002078
+RESIDENCE:    Flat 171, Tower B, Green Glen Layout, Pune, Maharashtra - 411030
+CYBER RISK:   Score 0.438 | Status: CLEAN | MFA: TRUE
+------------------------------------------------------------------------------------------
+RECORD ID:    PHG-REC-000049
+Full Name:    Shreya Bhat
+Phone No.:    +91 98634 97429 | Alt: +91 76850 17473
+Blood Group:  A+ | Gender: Female
+Aadhar No.:   6812 1700 6373 (Verhoeff Checksum Validated)
+PAN NUMBER:   MJVTP7804A | Passport: S1183583
+INCOME:       INR 1,916,750 per annum | Bracket: 30% Standard
+EMPLOYER:     Persistent Systems - Identity & Access Manager
+BANK:         ICICI Bank | Acct: 65676585816456 | IFSC: ICIC0006157
+RESIDENCE:    Flat 532, Tower D, Green Glen Layout, Ahmedabad, Gujarat - 380029
+CYBER RISK:   Score 0.122 | Status: CLEAN | MFA: TRUE
+------------------------------------------------------------------------------------------
+RECORD ID:    PHG-REC-000050
+Full Name:    Meera Bhattacharya
+Phone No.:    +91 87396 30348 | Alt: +91 93755 93351
+Blood Group:  AB+ | Gender: Female
+Aadhar No.:   5321 8436 8419 (Verhoeff Checksum Validated)
+PAN NUMBER:   SUAUP4948L | Passport: S9783090
+INCOME:       INR 2,463,758 per annum | Bracket: 30% Standard
+EMPLOYER:     State Bank of India - Cloud Security Lead
+BANK:         HDFC Bank | Acct: 28793123995873 | IFSC: HDFC0007323
+RESIDENCE:    Flat 156, Sector 14, Green Glen Layout, Ahmedabad, Gujarat - 380022
+CYBER RISK:   Score 0.217 | Status: CLEAN | MFA: TRUE
+------------------------------------------------------------------------------------------

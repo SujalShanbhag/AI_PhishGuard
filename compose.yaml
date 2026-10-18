@@ -1,0 +1,16 @@
+services:
+  veritas-ai:
+    build: .
+    container_name: veritas-ai-platform
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    environment:
+      - APP_ENV=production
+      - APP_HOST=0.0.0.0
+      - APP_PORT=8000
+      - APP_DEBUG=false
+      - DATABASE_URL=sqlite:///./data/veritas.db
+      - JWT_ACCESS_TOKEN_EXPIRE_MINUTES=120
+    volumes:
+      - ./data:/app/data

@@ -1,0 +1,32 @@
+================================================================================
+AI PHISHGUARD — LARGE-SCALE SYNTHETIC FORENSIC DOSSIERS
+Generated: 2026-10-17 15:28:17 UTC | Total Records: 3
+================================================================================
+
+RECORD: PHG-REC-000001 | UUID: 89b81a98-b986-4740-adc0-4118408f3133
+  Name: [NAME_REDACTED: Aditi***] | Gender: [GENDER_REDACTED] | [BLOOD_GROUP_REDACTED]
+  Aadhar No.: [AADHAAR_REDACTED: XXXX-XXXX-4283] | PAN: [PAN_REDACTED: AXFMP****A] | Voter ID: TTW9630474
+  Phone No.: [PHONE_REDACTED: ***-***-7664] | Email: [EMAIL_REDACTED: a***@enterprise.ai]
+  Income: [INCOME_REDACTED] | Bank A/C: [BANK_ACCOUNT_REDACTED: ****8816] (IFSC: [IFSC_REDACTED: KKBK******])
+  City: Hyderabad, Telangana | PIN: 500010
+  Employer: HDFC Bank Ltd | Designation: Data Protection Compliance Lead
+  Cyber Risk Score: 0.916 | Fraud Flag: SUSPICIOUS
+--------------------------------------------------------------------------------
+RECORD: PHG-REC-000002 | UUID: 2f7a5102-54b2-4447-a24b-eba69bde4d49
+  Name: [NAME_REDACTED: Ravi***] | Gender: [GENDER_REDACTED] | [BLOOD_GROUP_REDACTED]
+  Aadhar No.: [AADHAAR_REDACTED: XXXX-XXXX-5861] | PAN: [PAN_REDACTED: AETHP****Z] | Voter ID: GPS2301927
+  Phone No.: [PHONE_REDACTED: ***-***-1111] | Email: [EMAIL_REDACTED: r***@fincloud.co.in]
+  Income: [INCOME_REDACTED] | Bank A/C: [BANK_ACCOUNT_REDACTED: ****8626] (IFSC: [IFSC_REDACTED: SBIN******])
+  City: New Delhi, Delhi NCR | PIN: 110094
+  Employer: Cognizant India | Designation: Principal Cryptographic Engineer
+  Cyber Risk Score: 0.143 | Fraud Flag: CLEAN
+--------------------------------------------------------------------------------
+RECORD: PHG-REC-000003 | UUID: 81542c3f-495f-4537-80a2-8ff1edfd85d6
+  Name: [NAME_REDACTED: Anjali***] | Gender: [GENDER_REDACTED] | [BLOOD_GROUP_REDACTED]
+  Aadhar No.: [AADHAAR_REDACTED: XXXX-XXXX-4854] | PAN: [PAN_REDACTED: JHDZP****Q] | Voter ID: HSX4488208
+  Phone No.: [PHONE_REDACTED: ***-***-1799] | Email: [EMAIL_REDACTED: a***@techcorp.in]
+  Income: [INCOME_REDACTED] | Bank A/C: [BANK_ACCOUNT_REDACTED: ****6889] (IFSC: [IFSC_REDACTED: UTIB******])
+  City: Bengaluru, Karnataka | PIN: 560031
+  Employer: ICICI Bank | Designation: Senior Cloud Architect
+  Cyber Risk Score: 0.115 | Fraud Flag: CLEAN
+--------------------------------------------------------------------------------

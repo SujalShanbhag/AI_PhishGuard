@@ -1,0 +1,32 @@
+================================================================================
+AI PHISHGUARD — LARGE-SCALE SYNTHETIC FORENSIC DOSSIERS
+Generated: 2026-10-17 15:28:30 UTC | Total Records: 3
+================================================================================
+
+RECORD: PHG-REC-000001 | UUID: df378a54-45e6-416e-ac57-c5dac52101f3
+  Name: [NAME_REDACTED: Pranav***] | Gender: [GENDER_REDACTED] | [BLOOD_GROUP_REDACTED]
+  Aadhar No.: [AADHAAR_REDACTED: XXXX-XXXX-5753] | PAN: [PAN_REDACTED: XUKDP****J] | Voter ID: TLU8301074
+  Phone No.: [PHONE_REDACTED: ***-***-7188] | Email: [EMAIL_REDACTED: p***@secureguard.org]
+  Income: [INCOME_REDACTED] | Bank A/C: [BANK_ACCOUNT_REDACTED: ****5515] (IFSC: [IFSC_REDACTED: ICIC******])
+  City: Kochi, Kerala | PIN: 682070
+  Employer: Larsen & Toubro | Designation: SOC Incident Responder
+  Cyber Risk Score: 0.768 | Fraud Flag: SUSPICIOUS
+--------------------------------------------------------------------------------
+RECORD: PHG-REC-000002 | UUID: 8cb4d114-f6c5-4bdb-8c53-c80325fc44b0
+  Name: [NAME_REDACTED: Smriti***] | Gender: [GENDER_REDACTED] | [BLOOD_GROUP_REDACTED]
+  Aadhar No.: [AADHAAR_REDACTED: XXXX-XXXX-1120] | PAN: [PAN_REDACTED: HZPSP****U] | Voter ID: AJT5357824
+  Phone No.: [PHONE_REDACTED: ***-***-0472] | Email: [EMAIL_REDACTED: s***@techcorp.in]
+  Income: [INCOME_REDACTED] | Bank A/C: [BANK_ACCOUNT_REDACTED: ****1900] (IFSC: [IFSC_REDACTED: HDFC******])
+  City: Kochi, Kerala | PIN: 682073
+  Employer: State Bank of India | Designation: Senior Cybersecurity Analyst
+  Cyber Risk Score: 0.852 | Fraud Flag: SUSPICIOUS
+--------------------------------------------------------------------------------
+RECORD: PHG-REC-000003 | UUID: 9a8bfa13-4b74-41f4-b1ce-7521dc03322b
+  Name: [NAME_REDACTED: Pranav***] | Gender: [GENDER_REDACTED] | [BLOOD_GROUP_REDACTED]
+  Aadhar No.: [AADHAAR_REDACTED: XXXX-XXXX-9002] | PAN: [PAN_REDACTED: MFDTP****Z] | Voter ID: WSG5601374
+  Phone No.: [PHONE_REDACTED: ***-***-4986] | Email: [EMAIL_REDACTED: p***@fincloud.co.in]
+  Income: [INCOME_REDACTED] | Bank A/C: [BANK_ACCOUNT_REDACTED: ****2126] (IFSC: [IFSC_REDACTED: SBIN******])
+  City: Chennai, Tamil Nadu | PIN: 600071
+  Employer: HDFC Bank Ltd | Designation: Data Protection Compliance Lead
+  Cyber Risk Score: 0.374 | Fraud Flag: REVIEW_NEEDED
+--------------------------------------------------------------------------------

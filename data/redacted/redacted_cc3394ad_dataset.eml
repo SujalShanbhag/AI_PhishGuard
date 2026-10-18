@@ -1,0 +1,15 @@
+Subject: AI PhishGuard Synthetic Data Export (3 records)
+From: [EMAIL_REDACTED: d***@phishguard-internal.org]
+To: [EMAIL_REDACTED: c***@phishguard-internal.org]
+
+Attention: Data Protection & Privacy Compliance Officer
+
+Attached is the synthetic identity dataset generated at 2026-10-17T15:28:30.883596+00:00.
+Total records generated: 3 with 39 rich attributes.
+
+SAMPLE FORENSIC DOSSIERS:
+Candidate: Pranav Sen | [BLOOD_GROUP_REDACTED] | Aadhar No.: [AADHAAR_REDACTED: XXXX-XXXX-5753] | Phone No.: [PHONE_REDACTED: ***-***-7188]
+Candidate: Smriti Saxena | [BLOOD_GROUP_REDACTED] | Aadhar No.: [AADHAAR_REDACTED: XXXX-XXXX-1120] | Phone No.: [PHONE_REDACTED: ***-***-0472]
+Candidate: Pranav Mehta | [BLOOD_GROUP_REDACTED] | Aadhar No.: [AADHAAR_REDACTED: XXXX-XXXX-9002] | Phone No.: [PHONE_REDACTED: ***-***-4986]
+
+CONFIDENTIALITY NOTICE: This email contains generated synthetic data for AI privacy testing.

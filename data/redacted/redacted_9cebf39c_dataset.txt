@@ -1,0 +1,41 @@
+==========================================================================================
+AI PHISHGUARD — LARGE-SCALE SYNTHETIC KYC & IDENTITY DOSSIER
+Generated: 2026-10-17 15:55:15 UTC | Total Records: 3
+==========================================================================================
+
+RECORD ID:    PHG-REC-000001
+FULL NAME: [NAME_REDACTED: Preeti***]
+PHONE NO:     [PHONE_REDACTED: ***-***-5368] | Alt: [PHONE_REDACTED: ***-***-2634]
+[BLOOD_GROUP_REDACTED] | Gender: [GENDER_REDACTED]
+AADHAAR NO:   [AADHAAR_REDACTED: XXXX-XXXX-3994] (Verhoeff Checksum Validated)
+PAN NUMBER:   [PAN_REDACTED: KVMUP****R] | Passport: N6744637
+INCOME: [INCOME_REDACTED] | Bracket: 20% Standard
+EMPLOYER:     Bharat Electronics Ltd - Principal Cybersecurity Architect
+BANK:         Punjab National Bank | Acct: [BANK_ACCOUNT_REDACTED: ****6347] | IFSC: [IFSC_REDACTED: PUNB******]
+RESIDENCE:    Flat 421, Tower C, Green Glen Layout, Ahmedabad, Gujarat - 380026
+CYBER RISK:   Score 0.665 | Status: REVIEW_NEEDED | MFA: TRUE
+------------------------------------------------------------------------------------------
+RECORD ID:    PHG-REC-000002
+FULL NAME: [NAME_REDACTED: Kavita***]
+PHONE NO:     [PHONE_REDACTED: ***-***-3465] | Alt: [PHONE_REDACTED: ***-***-5363]
+[BLOOD_GROUP_REDACTED] | Gender: [GENDER_REDACTED]
+AADHAAR NO:   [AADHAAR_REDACTED: XXXX-XXXX-0737] (Verhoeff Checksum Validated)
+PAN NUMBER:   [PAN_REDACTED: FRYKP****R] | Passport: S8965865
+INCOME: [INCOME_REDACTED] | Bracket: 30% Standard
+EMPLOYER:     Reliance Industries - Cloud Security Lead
+BANK:         State Bank of India | Acct: [BANK_ACCOUNT_REDACTED: ****2543] | IFSC: [IFSC_REDACTED: SBIN******]
+RESIDENCE:    Flat 210, Tower C, Green Glen Layout, Pune, Maharashtra - 411002
+CYBER RISK:   Score 0.388 | Status: CLEAN | MFA: TRUE
+------------------------------------------------------------------------------------------
+RECORD ID:    PHG-REC-000003
+FULL NAME: [NAME_REDACTED: Archana***]
+PHONE NO:     [PHONE_REDACTED: ***-***-1953] | Alt: [PHONE_REDACTED: ***-***-5855]
+[BLOOD_GROUP_REDACTED] | Gender: [GENDER_REDACTED]
+AADHAAR NO:   [AADHAAR_REDACTED: XXXX-XXXX-8755] (Verhoeff Checksum Validated)
+PAN NUMBER:   [PAN_REDACTED: KWCXP****B] | Passport: K6598636
+INCOME: [INCOME_REDACTED] | Bracket: 10% Standard
+EMPLOYER:     Bharat Electronics Ltd - Digital Forensics Specialist
+BANK:         Kotak Mahindra Bank | Acct: [BANK_ACCOUNT_REDACTED: ****2433] | IFSC: [IFSC_REDACTED: KKBK******]
+RESIDENCE:    Flat 551, Block 4, Green Glen Layout, Jaipur, Rajasthan - 302024
+CYBER RISK:   Score 0.942 | Status: SUSPICIOUS | MFA: FALSE
+------------------------------------------------------------------------------------------

@@ -1,0 +1,41 @@
+==========================================================================================
+AI PHISHGUARD — LARGE-SCALE SYNTHETIC KYC & IDENTITY DOSSIER
+Generated: 2026-10-17 17:49:11 UTC | Total Records: 3
+==========================================================================================
+
+RECORD ID:    PHG-REC-000001
+Full Name: [NAME_REDACTED: Pranav***]
+Phone No.:    [PHONE_REDACTED: ***-***-6245] | Alt: [PHONE_REDACTED: ***-***-2551]
+[BLOOD_GROUP_REDACTED] | Gender: [GENDER_REDACTED]
+Aadhar No.:   [AADHAAR_REDACTED: XXXX-XXXX-3011] (Verhoeff Checksum Validated)
+PAN NUMBER:   [PAN_REDACTED: PGDZP****D] | Passport: P1121799
+INCOME: [INCOME_REDACTED] | Bracket: 30% Standard
+EMPLOYER:     Wipro Limited - Chief Risk Officer
+BANK:         State Bank of India | Acct: [BANK_ACCOUNT_REDACTED: ****0787] | IFSC: [IFSC_REDACTED: SBIN******]
+RESIDENCE:    Flat 718, Tower B, Green Glen Layout, Hyderabad, Telangana - 500035
+CYBER RISK:   Score 0.077 | Status: CLEAN | MFA: FALSE
+------------------------------------------------------------------------------------------
+RECORD ID:    PHG-REC-000002
+Full Name: [NAME_REDACTED: Aditi***]
+Phone No.:    [PHONE_REDACTED: ***-***-7418] | Alt: [PHONE_REDACTED: ***-***-4645]
+[BLOOD_GROUP_REDACTED] | Gender: [GENDER_REDACTED]
+Aadhar No.:   [AADHAAR_REDACTED: XXXX-XXXX-8866] (Verhoeff Checksum Validated)
+PAN NUMBER:   [PAN_REDACTED: DYGAP****F] | Passport: K6986457
+INCOME: [INCOME_REDACTED] | Bracket: 30% Standard
+EMPLOYER:     ICICI Bank - Digital Forensics Specialist
+BANK:         HDFC Bank | Acct: [BANK_ACCOUNT_REDACTED: ****4207] | IFSC: [IFSC_REDACTED: HDFC******]
+RESIDENCE:    Flat 861, Sector 14, Green Glen Layout, New Delhi, Delhi NCR - 110072
+CYBER RISK:   Score 0.269 | Status: CLEAN | MFA: FALSE
+------------------------------------------------------------------------------------------
+RECORD ID:    PHG-REC-000003
+Full Name: [NAME_REDACTED: Aditya***]
+Phone No.:    [PHONE_REDACTED: ***-***-0915] | Alt: [PHONE_REDACTED: ***-***-3752]
+[BLOOD_GROUP_REDACTED] | Gender: [GENDER_REDACTED]
+Aadhar No.:   [AADHAAR_REDACTED: XXXX-XXXX-1410] (Verhoeff Checksum Validated)
+PAN NUMBER:   [PAN_REDACTED: WJANP****R] | Passport: T8727390
+INCOME: [INCOME_REDACTED] | Bracket: 30% Standard
+EMPLOYER:     HDFC Bank - SOC Incident Commander
+BANK:         HDFC Bank | Acct: [BANK_ACCOUNT_REDACTED: ****1261] | IFSC: [IFSC_REDACTED: HDFC******]
+RESIDENCE:    Flat 836, Block 4, Green Glen Layout, Kochi, Kerala - 682076
+CYBER RISK:   Score 0.732 | Status: REVIEW_NEEDED | MFA: TRUE
+------------------------------------------------------------------------------------------
